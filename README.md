@@ -4,13 +4,6 @@ A **Virtual Mouse System** that allows users to control the computer mouse using
 
 ---
 
-## 📌 Demo
-
-### 🎥 Working Demo (GIF)
-
-![Virtual Mouse Demo](assets/demo.gif)
-
-> Place your demo GIF inside the `assets/` folder or update the path accordingly.
 
 ---
 
